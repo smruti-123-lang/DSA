@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/smruti-123-lang/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/smruti-123-lang/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -77,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

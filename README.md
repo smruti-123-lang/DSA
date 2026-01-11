@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/smruti-123-lang/DSA/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/smruti-123-lang/DSA/tree/master/0136-single-number) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/smruti-123-lang/DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/smruti-123-lang/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

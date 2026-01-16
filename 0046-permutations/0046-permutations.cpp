@@ -24,7 +24,7 @@ public:
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>> ans;
         vector<int> ds;
-        vector<int> freq(nums.size(), 0);
+        vector<int> freq(nums.size());
 
         solve(ds, freq, ans, nums);
         return ans;

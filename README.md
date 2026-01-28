@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/smruti-123-lang/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/smruti-123-lang/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/smruti-123-lang/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/smruti-123-lang/DSA/tree/master/0046-permutations) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/smruti-123-lang/DSA/tree/master/0037-sudoku-solver) |
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/smruti-123-lang/DSA/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/smruti-123-lang/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/smruti-123-lang/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/smruti-123-lang/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/smruti-123-lang/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/smruti-123-lang/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/smruti-123-lang/DSA/tree/master/0046-permutations) |

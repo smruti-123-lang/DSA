@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/smruti-123-lang/DSA/tree/master/0007-reverse-integer) |
+| [0060-permutation-sequence](https://github.com/smruti-123-lang/DSA/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/smruti-123-lang/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/smruti-123-lang/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/smruti-123-lang/DSA/tree/master/0509-fibonacci-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/smruti-123-lang/DSA/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/smruti-123-lang/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/smruti-123-lang/DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table

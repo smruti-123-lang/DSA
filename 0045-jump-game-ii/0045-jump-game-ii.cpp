@@ -20,3 +20,25 @@ public:
         return jumps;
     }
 };
+// class Solution {
+// public:
+//     int jump(vector<int>& nums) {
+//         return jumping(0, 0, nums);
+//     }
+
+//     int jumping(int index, int jumps, vector<int>& nums) {
+//         int n = nums.size();
+
+//         if (index >= n - 1) {
+//             return jumps;
+//         }
+
+//         int mini = INT_MAX;
+
+//         for (int step = 1; step <= nums[index]; step++) {
+//             mini = min(mini, jumping(index + step, jumps + 1, nums));
+//         }
+
+//         return mini;
+//     }
+// };

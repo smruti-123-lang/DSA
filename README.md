@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/smruti-123-lang/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/smruti-123-lang/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/smruti-123-lang/DSA/tree/master/0860-lemonade-change) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/smruti-123-lang/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/smruti-123-lang/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/smruti-123-lang/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/smruti-123-lang/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/smruti-123-lang/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/smruti-123-lang/DSA/tree/master/0090-subsets-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/smruti-123-lang/DSA/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/smruti-123-lang/DSA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/smruti-123-lang/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/smruti-123-lang/DSA/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/smruti-123-lang/DSA/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/smruti-123-lang/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/smruti-123-lang/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/smruti-123-lang/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/smruti-123-lang/DSA/tree/master/0231-power-of-two) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/smruti-123-lang/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/smruti-123-lang/DSA/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/smruti-123-lang/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/smruti-123-lang/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/smruti-123-lang/DSA/tree/master/0090-subsets-ii) |

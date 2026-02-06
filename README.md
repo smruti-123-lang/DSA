@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/smruti-123-lang/DSA/tree/master/0037-sudoku-solver) |
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/smruti-123-lang/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/smruti-123-lang/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/smruti-123-lang/DSA/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/smruti-123-lang/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/smruti-123-lang/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/smruti-123-lang/DSA/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/smruti-123-lang/DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/smruti-123-lang/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/smruti-123-lang/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/smruti-123-lang/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/smruti-123-lang/DSA/tree/master/0567-permutation-in-string) |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/smruti-123-lang/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/smruti-123-lang/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/smruti-123-lang/DSA/tree/master/0131-palindrome-partitioning) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/smruti-123-lang/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/smruti-123-lang/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

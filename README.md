@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/smruti-123-lang/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/smruti-123-lang/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/smruti-123-lang/DSA/tree/master/0771-jewels-and-stones) |
+| [1108-defanging-an-ip-address](https://github.com/smruti-123-lang/DSA/tree/master/1108-defanging-an-ip-address) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smruti-123-lang/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |

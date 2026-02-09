@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/smruti-123-lang/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/smruti-123-lang/DSA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/smruti-123-lang/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/smruti-123-lang/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/smruti-123-lang/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/smruti-123-lang/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/smruti-123-lang/DSA/tree/master/0231-power-of-two) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/smruti-123-lang/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/smruti-123-lang/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/smruti-123-lang/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/smruti-123-lang/DSA/tree/master/0136-single-number) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/smruti-123-lang/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/smruti-123-lang/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/smruti-123-lang/DSA/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/smruti-123-lang/DSA/tree/master/0344-reverse-string) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/smruti-123-lang/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/smruti-123-lang/DSA/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smruti-123-lang/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window

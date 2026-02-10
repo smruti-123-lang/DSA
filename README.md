@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/smruti-123-lang/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/smruti-123-lang/DSA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/smruti-123-lang/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/smruti-123-lang/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/smruti-123-lang/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/smruti-123-lang/DSA/tree/master/0189-rotate-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/smruti-123-lang/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/smruti-123-lang/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/smruti-123-lang/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/smruti-123-lang/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/smruti-123-lang/DSA/tree/master/0344-reverse-string) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/smruti-123-lang/DSA/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/smruti-123-lang/DSA/tree/master/0455-assign-cookies) |
 ## String

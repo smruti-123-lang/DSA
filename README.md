@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/smruti-123-lang/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/smruti-123-lang/DSA/tree/master/0860-lemonade-change) |
 | [1207-unique-number-of-occurrences](https://github.com/smruti-123-lang/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1480-running-sum-of-1d-array](https://github.com/smruti-123-lang/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/smruti-123-lang/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/smruti-123-lang/DSA/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/smruti-123-lang/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/smruti-123-lang/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

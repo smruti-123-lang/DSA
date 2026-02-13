@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/smruti-123-lang/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/smruti-123-lang/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/smruti-123-lang/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/smruti-123-lang/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/smruti-123-lang/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/smruti-123-lang/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/smruti-123-lang/DSA/tree/master/0263-ugly-number) |
@@ -149,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/smruti-123-lang/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/smruti-123-lang/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/smruti-123-lang/DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/smruti-123-lang/DSA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/smruti-123-lang/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/smruti-123-lang/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/smruti-123-lang/DSA/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |

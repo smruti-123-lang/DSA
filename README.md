@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/smruti-123-lang/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/smruti-123-lang/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/smruti-123-lang/DSA/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/smruti-123-lang/DSA/tree/master/0401-binary-watch) |
 | [1054-complement-of-base-10-integer](https://github.com/smruti-123-lang/DSA/tree/master/1054-complement-of-base-10-integer) |
 ## Recursion
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/smruti-123-lang/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/smruti-123-lang/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/smruti-123-lang/DSA/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/smruti-123-lang/DSA/tree/master/0401-binary-watch) |
 ## Queue
 |  |
 | ------- |

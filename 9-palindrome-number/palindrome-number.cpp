@@ -1,17 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if (x < 0) return false; // negative numbers can't be palindrome
+        if (x < 0) return false;  // negative numbers can't be palindrome
+        
+        string s = to_string(x);
+        int left = 0;
+        int right = s.length() - 1;
 
-        int original = x;
-        long reversed = 0;
-
-        while (x != 0) {
-            int digit = x % 10;
-            reversed = reversed * 10 + digit;
-            x /= 10;
+        while (left < right) {
+            if (s[left] != s[right]) {
+                return false;
+            }
+            left++;
+            right--;
         }
-
-        return reversed == original;
+        return true;
     }
 };

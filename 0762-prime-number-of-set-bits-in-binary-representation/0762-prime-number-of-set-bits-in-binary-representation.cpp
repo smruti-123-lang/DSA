@@ -1,6 +1,3 @@
-#include <bitset>
-using namespace std;
-
 class Solution {
 public:
     bool isPrime(int x){
@@ -15,9 +12,7 @@ public:
         int ans = 0;
 
         for(int i = left; i <= right; i++){
-            bitset<32> b(i);
-            int cnt = b.count();   // directly count set bits
-
+            int cnt = __builtin_popcount(i); // fastest
             if(isPrime(cnt)) ans++;
         }
 

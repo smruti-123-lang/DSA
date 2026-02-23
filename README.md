@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/smruti-123-lang/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/smruti-123-lang/DSA/tree/master/0868-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/smruti-123-lang/DSA/tree/master/1054-complement-of-base-10-integer) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/smruti-123-lang/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/smruti-123-lang/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/smruti-123-lang/DSA/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/smruti-123-lang/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/smruti-123-lang/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/smruti-123-lang/DSA/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/smruti-123-lang/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/smruti-123-lang/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/smruti-123-lang/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smruti-123-lang/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -203,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/smruti-123-lang/DSA/tree/master/0204-count-primes) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/smruti-123-lang/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/smruti-123-lang/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->

@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/smruti-123-lang/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/smruti-123-lang/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/smruti-123-lang/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/smruti-123-lang/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smruti-123-lang/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |

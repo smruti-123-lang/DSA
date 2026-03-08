@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/smruti-123-lang/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/smruti-123-lang/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/smruti-123-lang/DSA/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/smruti-123-lang/DSA/tree/master/0231-power-of-two) |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/smruti-123-lang/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/smruti-123-lang/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/smruti-123-lang/DSA/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/smruti-123-lang/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/smruti-123-lang/DSA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/smruti-123-lang/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/smruti-123-lang/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/smruti-123-lang/DSA/tree/master/0055-jump-game) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/smruti-123-lang/DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/smruti-123-lang/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/smruti-123-lang/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/smruti-123-lang/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/smruti-123-lang/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/smruti-123-lang/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/smruti-123-lang/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/smruti-123-lang/DSA/tree/master/0242-valid-anagram) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/smruti-123-lang/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/smruti-123-lang/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/smruti-123-lang/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/smruti-123-lang/DSA/tree/master/0131-palindrome-partitioning) |

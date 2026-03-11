@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/smruti-123-lang/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/smruti-123-lang/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/smruti-123-lang/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/smruti-123-lang/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/smruti-123-lang/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/smruti-123-lang/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/smruti-123-lang/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/smruti-123-lang/DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/smruti-123-lang/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/smruti-123-lang/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/smruti-123-lang/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/smruti-123-lang/DSA/tree/master/0125-valid-palindrome) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/smruti-123-lang/DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/smruti-123-lang/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/smruti-123-lang/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/smruti-123-lang/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/smruti-123-lang/DSA/tree/master/0242-valid-anagram) |

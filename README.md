@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/smruti-123-lang/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/smruti-123-lang/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/smruti-123-lang/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/smruti-123-lang/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/smruti-123-lang/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/smruti-123-lang/DSA/tree/master/0455-assign-cookies) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/smruti-123-lang/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/smruti-123-lang/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/smruti-123-lang/DSA/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/smruti-123-lang/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/smruti-123-lang/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/smruti-123-lang/DSA/tree/master/0443-string-compression) |

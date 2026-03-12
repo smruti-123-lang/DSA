@@ -7,12 +7,14 @@ public:
         }
 
         // Take the element
-        ds.push_back(nums[index]);
         solve(index + 1, ds, nums, ans);
+        ds.push_back(nums[index]);
+
 
         // Not take the element
-        ds.pop_back();
         solve(index + 1, ds, nums, ans);
+        ds.pop_back();
+
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {

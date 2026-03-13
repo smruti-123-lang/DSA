@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/smruti-123-lang/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/smruti-123-lang/DSA/tree/master/0860-lemonade-change) |
 | [1207-unique-number-of-occurrences](https://github.com/smruti-123-lang/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/smruti-123-lang/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/smruti-123-lang/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/smruti-123-lang/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/smruti-123-lang/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/smruti-123-lang/DSA/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/smruti-123-lang/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/smruti-123-lang/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/smruti-123-lang/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/smruti-123-lang/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/smruti-123-lang/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Enumeration
 |  |

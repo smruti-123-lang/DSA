@@ -18,10 +18,9 @@ public:
                     l++;
                 
             }
-            if (zeros <= k) {
-                len = r - l + 1;
-                maxlen = max(maxlen, len);
-            }
+           
+                maxlen = max(maxlen, r - l +1);
+            
             r++;
         }
         return maxlen;

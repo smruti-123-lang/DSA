@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/smruti-123-lang/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/smruti-123-lang/DSA/tree/master/1929-concatenation-of-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/smruti-123-lang/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3477-fruits-into-baskets-ii](https://github.com/smruti-123-lang/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/smruti-123-lang/DSA/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/smruti-123-lang/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [3477-fruits-into-baskets-ii](https://github.com/smruti-123-lang/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/smruti-123-lang/DSA/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/smruti-123-lang/DSA/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smruti-123-lang/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3477-fruits-into-baskets-ii](https://github.com/smruti-123-lang/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -305,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/smruti-123-lang/DSA/tree/master/0347-top-k-frequent-elements) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/smruti-123-lang/DSA/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/smruti-123-lang/DSA/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

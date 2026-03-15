@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/smruti-123-lang/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/smruti-123-lang/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/smruti-123-lang/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/smruti-123-lang/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/smruti-123-lang/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/smruti-123-lang/DSA/tree/master/0771-jewels-and-stones) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/smruti-123-lang/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/smruti-123-lang/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/smruti-123-lang/DSA/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/smruti-123-lang/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/smruti-123-lang/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/smruti-123-lang/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/smruti-123-lang/DSA/tree/master/0567-permutation-in-string) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/smruti-123-lang/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/smruti-123-lang/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/smruti-123-lang/DSA/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/smruti-123-lang/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/smruti-123-lang/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |

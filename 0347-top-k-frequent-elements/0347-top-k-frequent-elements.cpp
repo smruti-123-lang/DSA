@@ -1,26 +1,23 @@
 class Solution {
 public:
-
-    bool static compare(pair<int,int> a, pair<int,int> b){
-        return a.second > b.second;
-    }
-
     vector<int> topKFrequent(vector<int>& nums, int k) {
-
-        unordered_map<int,int> count;
-
-        for(int i : nums){
-            count[i]++;
+        unordered_map<int,int> hash;
+        
+        for(int i = 0; i < nums.size(); i++){
+            hash[nums[i]]++;
         }
 
-        vector<pair<int,int>> vec(count.begin(), count.end());
+        vector<pair<int,int>> freq;
 
-        sort(vec.begin(), vec.end(), compare);
+        for(auto it : hash){
+            freq.push_back({it.second, it.first});
+        }
+
+        sort(freq.rbegin(), freq.rend());
 
         vector<int> ans;
-
         for(int i = 0; i < k; i++){
-            ans.push_back(vec[i].first);
+            ans.push_back(freq[i].second);
         }
 
         return ans;

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/smruti-123-lang/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/smruti-123-lang/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/smruti-123-lang/DSA/tree/master/0860-lemonade-change) |
+| [1328-break-a-palindrome](https://github.com/smruti-123-lang/DSA/tree/master/1328-break-a-palindrome) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/smruti-123-lang/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Array
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/smruti-123-lang/DSA/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/smruti-123-lang/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/smruti-123-lang/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1328-break-a-palindrome](https://github.com/smruti-123-lang/DSA/tree/master/1328-break-a-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/smruti-123-lang/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/smruti-123-lang/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/smruti-123-lang/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |

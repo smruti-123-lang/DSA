@@ -7,8 +7,11 @@ public:
             hash[nums2[i]]++;
         }
           for(int i = 0;i < nums1.size();i++){
-           if(hash.find(nums1[i]) != hash.end() && hash[nums1[i]] > 0){
+           if(hash.find(nums1[i]) != hash.end()){
             hash[nums1[i]]--;
+            if(hash[nums1[i]] == 0){
+                hash.erase(nums1[i]);
+            }
             ans.push_back(nums1[i]);
            }
         }

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/smruti-123-lang/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/smruti-123-lang/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/smruti-123-lang/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/smruti-123-lang/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/smruti-123-lang/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/smruti-123-lang/DSA/tree/master/1929-concatenation-of-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/smruti-123-lang/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/smruti-123-lang/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3477-fruits-into-baskets-ii](https://github.com/smruti-123-lang/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/smruti-123-lang/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Bit Manipulation
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/smruti-123-lang/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/smruti-123-lang/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/smruti-123-lang/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/smruti-123-lang/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Matrix
 |  |
 | ------- |
@@ -316,11 +319,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/smruti-123-lang/DSA/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/smruti-123-lang/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/smruti-123-lang/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/smruti-123-lang/DSA/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/smruti-123-lang/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Rolling Hash
 |  |
 | ------- |

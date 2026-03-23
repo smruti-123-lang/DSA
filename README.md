@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/smruti-123-lang/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/smruti-123-lang/DSA/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/smruti-123-lang/DSA/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/smruti-123-lang/DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/smruti-123-lang/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/smruti-123-lang/DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/smruti-123-lang/DSA/tree/master/0509-fibonacci-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/smruti-123-lang/DSA/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/smruti-123-lang/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/smruti-123-lang/DSA/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/smruti-123-lang/DSA/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/smruti-123-lang/DSA/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/smruti-123-lang/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/smruti-123-lang/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

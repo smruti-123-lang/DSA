@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smruti-123-lang/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/smruti-123-lang/DSA/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/smruti-123-lang/DSA/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/smruti-123-lang/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/smruti-123-lang/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/smruti-123-lang/DSA/tree/master/0860-lemonade-change) |

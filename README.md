@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/smruti-123-lang/DSA/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/smruti-123-lang/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/smruti-123-lang/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/smruti-123-lang/DSA/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/smruti-123-lang/DSA/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/smruti-123-lang/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/smruti-123-lang/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/smruti-123-lang/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/smruti-123-lang/DSA/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/smruti-123-lang/DSA/tree/master/0401-binary-watch) |
+| [0645-set-mismatch](https://github.com/smruti-123-lang/DSA/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/smruti-123-lang/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/smruti-123-lang/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/smruti-123-lang/DSA/tree/master/0868-binary-gap) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/smruti-123-lang/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/smruti-123-lang/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/smruti-123-lang/DSA/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/smruti-123-lang/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/smruti-123-lang/DSA/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/smruti-123-lang/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/smruti-123-lang/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smruti-123-lang/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/smruti-123-lang/DSA/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/smruti-123-lang/DSA/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |

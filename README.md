@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/smruti-123-lang/DSA/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/smruti-123-lang/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/smruti-123-lang/DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/smruti-123-lang/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/smruti-123-lang/DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/smruti-123-lang/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/smruti-123-lang/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/smruti-123-lang/DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/smruti-123-lang/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/smruti-123-lang/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/smruti-123-lang/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/smruti-123-lang/DSA/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smruti-123-lang/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/smruti-123-lang/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/smruti-123-lang/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/smruti-123-lang/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/smruti-123-lang/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/smruti-123-lang/DSA/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/smruti-123-lang/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer

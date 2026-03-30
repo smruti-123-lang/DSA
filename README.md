@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/smruti-123-lang/DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/smruti-123-lang/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/smruti-123-lang/DSA/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/smruti-123-lang/DSA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/smruti-123-lang/DSA/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/smruti-123-lang/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/smruti-123-lang/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smruti-123-lang/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/smruti-123-lang/DSA/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/smruti-123-lang/DSA/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/smruti-123-lang/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3477-fruits-into-baskets-ii](https://github.com/smruti-123-lang/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/smruti-123-lang/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/smruti-123-lang/DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/smruti-123-lang/DSA/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/smruti-123-lang/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/smruti-123-lang/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/smruti-123-lang/DSA/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/smruti-123-lang/DSA/tree/master/0728-self-dividing-numbers) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/smruti-123-lang/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/smruti-123-lang/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/smruti-123-lang/DSA/tree/master/0443-string-compression) |
+| [0504-base-7](https://github.com/smruti-123-lang/DSA/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/smruti-123-lang/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/smruti-123-lang/DSA/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/smruti-123-lang/DSA/tree/master/0696-count-binary-substrings) |

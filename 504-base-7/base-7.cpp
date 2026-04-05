@@ -10,15 +10,13 @@ public:
 
         while (num > 0) {
             int rem = num % 7;
-            result += (rem + '0');  // convert int to char
+            result += (rem + '0');
             num /= 7;
         }
 
         reverse(result.begin(), result.end());
 
-        if (isNegative) {
-            result = "-" + result;
-        }
+        if (isNegative) result = "-" + result;
 
         return result;
     }

@@ -1,15 +1,17 @@
 class Solution {
 public:
+    int findsum(int num){
+        int sum = 0;
+        while(num > 0){
+            sum += num % 10;
+            num /= 10;
+        }
+        return sum;
+    }
+
     int addDigits(int num) {
-        while (num > 9) {
-            int sum = 0; // reset sum each round
-
-            while (num > 0) {
-                sum += num % 10;
-                num /= 10;
-            }
-
-            num = sum; // update num
+        while(num >= 10){
+            num = findsum(num);
         }
         return num;
     }

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/smruti-123-lang/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/smruti-123-lang/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/smruti-123-lang/DSA/tree/master/0263-ugly-number) |
+| [0313-super-ugly-number](https://github.com/smruti-123-lang/DSA/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/smruti-123-lang/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/smruti-123-lang/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/smruti-123-lang/DSA/tree/master/0367-valid-perfect-square) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/smruti-123-lang/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/smruti-123-lang/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/smruti-123-lang/DSA/tree/master/0283-move-zeroes) |
+| [0313-super-ugly-number](https://github.com/smruti-123-lang/DSA/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/smruti-123-lang/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smruti-123-lang/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/smruti-123-lang/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/smruti-123-lang/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/smruti-123-lang/DSA/tree/master/0131-palindrome-partitioning) |
+| [0313-super-ugly-number](https://github.com/smruti-123-lang/DSA/tree/master/0313-super-ugly-number) |
 | [0509-fibonacci-number](https://github.com/smruti-123-lang/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

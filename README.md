@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/smruti-123-lang/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/smruti-123-lang/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/smruti-123-lang/DSA/tree/master/0141-linked-list-cycle) |
+| [0165-compare-version-numbers](https://github.com/smruti-123-lang/DSA/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/smruti-123-lang/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/smruti-123-lang/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/smruti-123-lang/DSA/tree/master/0234-palindrome-linked-list) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/smruti-123-lang/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/smruti-123-lang/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/smruti-123-lang/DSA/tree/master/0131-palindrome-partitioning) |
+| [0165-compare-version-numbers](https://github.com/smruti-123-lang/DSA/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/smruti-123-lang/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/smruti-123-lang/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/smruti-123-lang/DSA/tree/master/0344-reverse-string) |

@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/smruti-123-lang/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/smruti-123-lang/DSA/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/smruti-123-lang/DSA/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/smruti-123-lang/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/smruti-123-lang/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/smruti-123-lang/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/smruti-123-lang/DSA/tree/master/0645-set-mismatch) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/smruti-123-lang/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/smruti-123-lang/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/smruti-123-lang/DSA/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/smruti-123-lang/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/smruti-123-lang/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/smruti-123-lang/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3477-fruits-into-baskets-ii](https://github.com/smruti-123-lang/DSA/tree/master/3477-fruits-into-baskets-ii) |
